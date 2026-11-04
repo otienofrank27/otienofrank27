@@ -82,10 +82,20 @@
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=otienofrank27&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otienofrank27&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-  <br/>
-  <img width="75%" src="https://streak-stats.demolab.com?user=otienofrank27&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+  <h3>GitHub Statistics</h3>
+  <a href="https://github.com/otienofrank27">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=otienofrank27&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="Marvin Frank's GitHub statistics: stars, commits, pull requests and issues" />
+  </a>
+  <a href="https://github.com/otienofrank27">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otienofrank27&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Marvin Frank's most used programming languages" />
+  </a>
+
+  <br/><br/>
+
+  <h3>Contribution Streak</h3>
+  <img width="75%" src="https://streak-stats.demolab.com?user=otienofrank27&hide_border=true&theme=tokyonight" alt="Marvin Frank's GitHub contribution streak" />
+
 </div>
 
 ## Let's connect
