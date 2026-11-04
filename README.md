@@ -84,9 +84,21 @@
 <div align="center">
 
   <h3>GitHub Statistics</h3>
+  <p>
+    <img src="https://img.shields.io/badge/GitHub-Statistics-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Statistics badge" />
+    <img src="https://img.shields.io/github/followers/otienofrank27?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/otienofrank27?style=for-the-badge&logo=github&label=Total%20Stars&color=E3B341" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/github/repos/otienofrank27?style=for-the-badge&logo=github&label=Public%20Repos&color=2EA043" alt="Public repositories" />
+  </p>
   <a href="https://github.com/otienofrank27">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=otienofrank27&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="Marvin Frank's GitHub statistics: stars, commits, pull requests and issues" />
   </a>
+
+  <h3>Most Used Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Most-Used%20Languages-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Most Used Languages badge" />
+    <img src="https://img.shields.io/badge/Language%20Breakdown-Top%208-3178C6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Top eight languages breakdown badge" />
+  </p>
   <a href="https://github.com/otienofrank27">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otienofrank27&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Marvin Frank's most used programming languages" />
   </a>
