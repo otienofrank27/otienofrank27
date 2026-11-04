@@ -13,7 +13,7 @@
     <a href="https://www.instagram.com/frankmarvin_1/"><img src="https://img.shields.io/badge/Instagram-frankmarvin__1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 
-  <h3>Building useful software, one project at a time.</h3>
+  <h3>Building useful software and websites, one project at a time.</h3>
 
   <p>
     I enjoy turning ideas into practical digital products — from web applications<br/>
