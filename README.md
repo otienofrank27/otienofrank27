@@ -95,26 +95,39 @@ A selection of projects I'm building and exploring.
 
 <div align="center">
 
-  <h3>GitHub Statistics</h3>
   <p>
-    <img src="https://img.shields.io/badge/PROFILE-GITHUB%20STATISTICS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub statistics badge" />
-    <img src="https://img.shields.io/github/followers/otienofrank27?style=for-the-badge&logo=github&label=FOLLOWERS&color=0F766E" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/otienofrank27?label=Followers&style=flat-square&logo=github&color=2563EB" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/otienofrank27?label=Stars&style=flat-square&logo=github&color=E3B341" alt="GitHub stars" />
+    <img src="https://komarev.com/ghpvc/?username=otienofrank27&style=flat-square&color=0F766E&label=Profile%20views" alt="Profile views" />
   </p>
-  <a href="https://github.com/otienofrank27">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=otienofrank27&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub statistics for Marvin Frank" />
-  </a>
 
-  <h3>Most Used Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/CODE-LANGUAGE%20BREAKDOWN-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Most used languages badge" />
-    <img src="https://img.shields.io/badge/VIEW-TOP%208%20LANGUAGES-3178C6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Top eight languages badge" />
-  </p>
-  <a href="https://github.com/otienofrank27">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otienofrank27&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used programming languages for Marvin Frank" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>📊 GitHub Statistics</strong>
+      </td>
+      <td align="center" width="50%">
+        <strong>💻 Most Used Languages</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/otienofrank27">
+          <img src="https://github-readme-stats.vercel.app/api?username=otienofrank27&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" width="100%" alt="GitHub statistics for Marvin Frank" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/otienofrank27">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otienofrank27&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" alt="Most used programming languages for Marvin Frank" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <h3>Contribution Streak</h3>
-  <img width="75%" src="https://streak-stats.demolab.com?user=otienofrank27&hide_border=true&theme=tokyonight" alt="GitHub contribution streak for Marvin Frank" />
+  <br/>
+
+  <strong>Contribution Activity</strong><br/>
+  <img src="https://streak-stats.demolab.com?user=otienofrank27&hide_border=true&theme=tokyonight&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" width="85%" alt="GitHub contribution streak for Marvin Frank" />
 
 </div>
 
