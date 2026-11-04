@@ -14,10 +14,11 @@
     <a href="https://wa.me/254748642275"><img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp contact" /></a>
   </p>
 
-  <h3>Turning ideas into useful digital experiences.</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Building+web+applications+%26+automation;Exploring+cloud+%26+infrastructure;Learning+by+building+real+projects" alt="Animated introduction: Software Developer, Web Applications, Automation and Infrastructure" />
+  </a>
   <p>
-    I build software across web development, automation, and infrastructure.<br/>
-    I enjoy exploring new technologies, solving practical problems, and bringing ideas to life.
+    I turn ideas into practical digital products through code, curiosity, and continuous improvement.
   </p>
 
 </div>
@@ -26,16 +27,25 @@
 
 ## About
 
-I'm a developer who enjoys building practical applications and experimenting with technology. My interests span frontend and backend development, automation, databases, and container-based infrastructure.
+I'm a software developer driven by curiosity and the challenge of turning real-world problems into useful digital solutions. I enjoy working across the stack, learning new tools, and developing projects that combine functionality with thoughtful user experience.
 
-- Focused on creating useful, maintainable software.
-- Interested in developer tools, cloud technologies, and system design.
-- Always learning, building, and improving through hands-on projects.
-- Open to meaningful collaborations and knowledge sharing.
+- **Build:** web applications, automation tools, and software projects.
+- **Explore:** backend systems, databases, cloud technologies, and container infrastructure.
+- **Value:** clean implementation, reliability, security, and continuous learning.
+- **Connect:** open to exchanging ideas and collaborating on meaningful projects.
+
+## Areas of interest
+
+| Area | What interests me |
+| --- | --- |
+| Web development | Responsive interfaces, frontend architecture, and backend services |
+| Automation | Practical tools that simplify repetitive tasks and workflows |
+| Infrastructure | Docker, deployment workflows, hosting, and system administration |
+| Software engineering | Maintainable code, databases, application security, and system design |
 
 ## Featured projects
 
-A selection of projects I'm building and exploring.
+A selection of projects I've built or am actively exploring. Visit each repository for its implementation, documentation, and development progress.
 
 | Project | Overview |
 | --- | --- |
@@ -95,7 +105,6 @@ A selection of projects I'm building and exploring.
 
 <div align="center">
 
-<h3>Contribution Streak</h3>
   <img src="https://streak-stats.demolab.com?user=otienofrank27&hide_border=true&theme=tokyonight&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF" width="75%" alt="GitHub contribution streak for Marvin Frank" />
 
 </div>
