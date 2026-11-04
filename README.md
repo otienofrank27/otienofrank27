@@ -27,7 +27,7 @@
 
 ## About
 
-I'm a software developer driven by curiosity and the challenge of turning real-world problems into useful digital solutions. I enjoy working across the stack, learning new tools, and developing projects that combine functionality with thoughtful user experience.
+I'm a software and web developer driven by curiosity and the challenge of turning real-world problems into useful digital solutions. I enjoy working across the stack, learning new tools, and developing projects that combine functionality with thoughtful user experience.
 
 - **Build:** web applications, automation tools, and software projects.
 - **Explore:** backend systems, databases, cloud technologies, and container infrastructure.
@@ -116,7 +116,6 @@ I'm always glad to connect with fellow developers, exchange ideas, and explore o
 <p>
   <a href="https://github.com/otienofrank27"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
   <a href="https://wa.me/254748642275"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Message on WhatsApp" /></a>
-  <a href="https://t.me/+245748470966"><img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Connect on Telegram" /></a>
   <a href="https://www.instagram.com/frankmarvin_1/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" /></a>
   <a href="https://www.youtube.com/@FrankM-12"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube" /></a>
 </p>
